@@ -1,0 +1,2 @@
+A miniature implementatoion of the Microsoft Paint application
+using Java

@@ -1,0 +1,8 @@
+A java implementation to compare the speed difference when utilizing
+binary search as compared to linear search.
+
+The Search class is involved in performing the test operations while the
+Statistics class performs the statistical computations based on the time 
+durations
+
+The test is performed from a range of small size arrays to large size arrays 
